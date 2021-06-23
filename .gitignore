@@ -1,2 +1,7 @@
 /Dataset
 /HOG_attributes
+/Train
+/Test_img
+/Results
+/.ipynb_checkpoints
+/.idea
